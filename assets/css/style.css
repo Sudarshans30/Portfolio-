@@ -172,6 +172,7 @@ main {
 	align-items:center
 	
 	
+	
 }
 .flex-row{
 	display: flex;
@@ -190,7 +191,7 @@ main {
 	width: 100%;
 	justify-content: space-between;
 	margin: 30px 50px;
-	margin-top: 100px;
+	margin-top: 150px;
 }
 
 .section-title {
@@ -200,10 +201,13 @@ main {
 	border-right: 5px solid;
 	padding: 30px;
 	margin-left: 35px;
+	margin-top: 100px;
+	margin-left: 40px;
 	
 }
 .section-text{
 	margin-left: 50px;
+	margin-top: 100px;
 }
 
 .about-section p {
